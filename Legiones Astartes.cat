@@ -6140,7 +6140,7 @@ Knights, Titans and models with a Morale characteristic of &quot;-&quot; are una
                 <profile name="Pintle Mounted multi-melta" hidden="false" id="34a5-7182-5813-6f4d" typeId="ac1f-57b2-e1a8-3b2a" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="9b59-b345-bfe2-c99b">6&quot;</characteristic>
-                    <characteristic name="Dice" typeId="e416-76d6-5762-ed21">4</characteristic>
+                    <characteristic name="Dice" typeId="e416-76d6-5762-ed21">1</characteristic>
                     <characteristic name="To Hit" typeId="c441-9eb2-b00a-5c8c">5+</characteristic>
                     <characteristic name="AP" typeId="3932-ca12-de16-c1b7">-3</characteristic>
                     <characteristic name="Traits" typeId="d0f2-61ea-138a-81af">Arc (Front), Anti-tank</characteristic>
